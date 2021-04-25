@@ -10,11 +10,11 @@ For a quick and lazy way to create the configuration file, see [The Wake On Lan 
 Usage
 -------
 
-    wol.py [hostname]
+    python wol.py kashikoi
 
 or
 
-    wol.py list
+    python wol.py fukai
 
 
 
